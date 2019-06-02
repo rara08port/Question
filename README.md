@@ -21,18 +21,18 @@ Questionの主な機能
 10.パスワード変更機能
 11.退会
 
-
 開発環境
-使用言語・データベース
+詳細用言語・データーベース
 PHP
 HTML
 CSS
-JS
+js
 MySQL
 
 使用ツール・ライブラリ
 jQuery
 vscode
 XAMPP
-Google Font
+Google Fonts
 Font Awesome
+
